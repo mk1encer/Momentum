@@ -1,0 +1,8 @@
+{
+  "name": "momentum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mk1encer/Momentum.git",
+  "author": "mk1encer <mksur1er@gmail.com>",
+  "license": "MIT"
+}
